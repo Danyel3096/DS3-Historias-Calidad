@@ -75,6 +75,7 @@ Las restricciones establecen **limitaciones** en la arquitectura del sistema, ya
 |------------------------|----------------|
 | Tecnológica | El sistema debe desarrollarse utilizando **Spring Boot y PostgreSQL**, debido a la infraestructura actual de la empresa y su compatibilidad con otros sistemas internos. |
 | Arquitectónica | El sistema debe diseñarse utilizando una arquitectura de microservicios, donde cada servicio sea independiente y escalable. |
+| Validaciones de Datos | El nombre del producto debe ser único dentro de su categoría. El precio no puede ser menor o igual a cero. Los campos obligatorios deben completarse antes de guardar un producto. |
 
 >  **Tipos de restricciones:**  
 > - **Tecnológicas:** Lenguajes, frameworks o herramientas que deben utilizarse.  
