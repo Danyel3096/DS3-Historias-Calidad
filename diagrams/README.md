@@ -11,3 +11,7 @@
 ## Diagrama de componentes
 
 ![Diagrama Componentes](/diagrams/Diagrama_Componentes.png)
+
+## Diagrama de CI/CD Pipeline
+
+![Diagrama CI/CD Pipeline](/diagrams/Diagrama_CICD_Pipeline.png)
