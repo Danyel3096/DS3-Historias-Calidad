@@ -6,4 +6,4 @@ El documento [Arquitectura.md](./Arquitectura.md) describe las historias de usua
 
 ## Diagramas
 
-El directorio [diagrams](./diagrams) contiene los diagramas del proyecto, incluyendo diagramas de contexto, componentes y modelo entidad-relación.
+El directorio [diagrams](./diagrams) contiene los diagramas del proyecto, incluyendo diagramas de contexto, componentes, modelo entidad-relación y CI/CD Pipelines.
