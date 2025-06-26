@@ -12,6 +12,10 @@
 
 ![Diagrama Componentes](/diagrams/Diagrama_Componentes.png)
 
-## Diagrama de CI/CD Pipeline
+## Diagrama para el Pipeline de DockerHub
 
-![Diagrama CI/CD Pipeline](/diagrams/Diagrama_CICD_Pipeline.png)
+![Diagrama Pipeline DockerHub](/diagrams/Diagrama_Pipeline_DockerHub.png)
+
+## Diagrama para el Pipeline de SonarQube
+
+![Diagrama Pipeline SonarQube](/diagrams/Diagrama_Pipeline_SonarQube.png)
